@@ -25,13 +25,13 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
 //Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
+//Telegram: t.me@Mhiv11
 //GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//WhatsApp: +2348035936169
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
-//   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//   * Credit To mhicolo
+//   * © 2024 Mhicolo
 // ⛥┌┤
 // */
 
@@ -52,9 +52,9 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 //________________________________________________________________________________________________________
 global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
+global.ownernumber = process.env.SUDO || '2348035936169' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Salman Ahmad' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'micheal' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
